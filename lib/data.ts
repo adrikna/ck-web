@@ -3,7 +3,7 @@
 export const siteConfig = {
   name: "Cake & Kue",
   description: "Toko kue online terbaik dengan cita rasa autentik",
-  phone: "6281234567890", // Nomor WhatsApp tanpa +
+  phone: "6281994830969", // Nomor WhatsApp tanpa +
   email: "info@cakeandkue.com",
   address: "Jl. Roti Manis No. 123, Jakarta",
   socialLinks: {
