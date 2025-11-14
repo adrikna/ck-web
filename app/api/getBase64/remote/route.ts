@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getPlaiceholder } from 'plaiceholder';
 
+export const dynamic = "force-dynamic";
 export const GET = async (req: NextRequest) => {
   const { searchParams } = new URL(req.url);
   const url = searchParams.get('url');
